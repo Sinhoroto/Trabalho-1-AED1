@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556491275 source:c:\users\ricar\onedrive\Área de trabalho\ex5\ex5.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex5.h"
+
+1556491879 c:\users\ricar\onedrive\Área de trabalho\ex5\ex5.h
+	"Ex5.h"
+
